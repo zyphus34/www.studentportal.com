@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T19:29:24.236Z" agent="5.0 (Linux; Android 7.0; HUAWEI VNS-L31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36" etag="vkCTcpxQowskDZbQQD1_" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-08T19:31:44.061Z" agent="5.0 (Linux; Android 7.0; HUAWEI VNS-L31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36" etag="dlJyFpIjkH722xNWx6Hf" version="14.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="272" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,6 +26,15 @@
         </mxCell>
         <mxCell id="5hR5325ibklkGNEFHjKQ-0" value="Log in&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hR5325ibklkGNEFHjKQ-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5hR5325ibklkGNEFHjKQ-2" value="Log in" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="147.5" y="142.5" width="20" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5hR5325ibklkGNEFHjKQ-3" value="Register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="195" y="230" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
